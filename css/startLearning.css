@@ -1,0 +1,17 @@
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.matter{
+  margin: 2rem;
+}
+
+.setupImage{
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Note{
+  margin: 30px;
+}
